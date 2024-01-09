@@ -1,1 +1,2 @@
-A simple CRUD app using Python/Django.
+A simple polling + voting app using Python, Django, and Poetry.
+Create polls and vote for choices.
