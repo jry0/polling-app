@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "todo-app"
+name = "polling-app"
 version = "0.1.0"
 description = ""
 authors = ["Jerry Xing <j27xing@uwaterloo.ca>"]
